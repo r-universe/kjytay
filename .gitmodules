@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cvwrapr"]
 	path = cvwrapr
 	url = https://github.com/kjytay/cvwrapr
-	shallow = true
-	registered = true
 [submodule "relgam"]
 	path = relgam
 	url = https://github.com/kjytay/relgam
-	shallow = true
-	registered = true
